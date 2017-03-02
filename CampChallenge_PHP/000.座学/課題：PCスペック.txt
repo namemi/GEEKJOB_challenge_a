@@ -1,6 +1,0 @@
-PCスペック
-
-OS：windows 10 home
-CPU:intel(R) Pentium(R) CPU N3710 @ 1.6GHz
-メモリ：4.00  GB
-HDD：128GB SSD
